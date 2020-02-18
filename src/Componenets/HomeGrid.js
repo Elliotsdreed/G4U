@@ -12,7 +12,6 @@ class HomeGrid extends React.Component {
     
     </div>
     <div class="col-sm">
-      One of two columns
     </div>
   </div>
 </div>

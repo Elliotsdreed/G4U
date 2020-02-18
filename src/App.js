@@ -17,8 +17,9 @@ function App() {
         <LoginForm/>
       
         </p>
+          <img src={"Images/g4uimageprototype.png"} alt="Responsive image" align="right"></img>
+
         
-        <img src="g4uimageprototype.png" alt="Responsive image"></img>
        
       </header>
          
