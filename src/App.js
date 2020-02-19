@@ -9,22 +9,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         
-        <h1>Gadgets 4 U</h1>
-       
-
-        <p>
-
-        <LoginForm/>
-      
-        </p>
-          <img src={"Images/g4uimageprototype.png"} alt="Responsive image" align="right"></img>
-
+        <h1>Gadgets 4 U</h1>     
         
-       
       </header>
-         
-          <HomeGrid/>
-          
+      
+      <body className="App-body">
+      <LoginForm/>                
+      <HomeGrid/>
+      </body>
+           
     </div>
   
   );
